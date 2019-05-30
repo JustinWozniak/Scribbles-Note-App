@@ -1,3 +1,12 @@
+I made the entire app off https://serverless-stack.com/ using React/Javascript.
+
+
+Accident closed my Amazon Web Services instance so its not live anymore, but I thought Id share my code if anybody else is having problems doing it....
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
